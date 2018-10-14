@@ -35,6 +35,8 @@ include_once 'header.php';
     <input size="80" placeholder="Enter url" type="text" name = "url">
     <input size="10" placeholder="Encoding Type" type="text" name = "encoding">
     <input type="submit">
-
-
 </form>
+<?php
+}
+include_once 'footer.php';
+?>

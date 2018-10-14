@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php
 
 /* 
@@ -31,13 +32,13 @@
 <html>
     <head>
         <title>hFeeds - RSS Feed Generator for Web Pages</title>
-        <link rel="stylesheet" type="text/css" href="./style.css"></link>
+        <link rel="stylesheet" type="text/css" href="./style.css">
     </head>
     <body>
         <div class="head">
             <div id="logo"><img src='./images/hfeeds_logo.png' width='100px' /></div>
             <div style="display:inline-block;">
-        <div id="head-title">hFeeds</div>
-        <div id="class">An easy to use RSS Feed Generator</div>
-        </div>
+                <div id="head-title">hFeeds</div>
+                <div id="class">An easy to use RSS Feed Generator</div>
+            </div>
         </div>
